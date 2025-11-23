@@ -20,7 +20,7 @@
 - **Midsem (Lab 1–4):**  
   https://drive.google.com/file/d/1NMKiIRDHERBUMnMXVFaxuN6jno4gC5V9/view?usp=drive_link  
 
-- **Endsem (Lab 5–6):**  
+- **Endsem (Lab 5–8):**  
   https://drive.google.com/file/d/1Jytp0mNFuVeuqTPWnmV8C8b_GVx5pDo_/view?usp=drive_link  
 
 ---
